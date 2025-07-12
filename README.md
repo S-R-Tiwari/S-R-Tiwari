@@ -7,7 +7,7 @@
 🌱 Recently completed certifications in **Python**, **SQL**, **R**, **Machine Learning**, and **Data Science**  
 👨‍💻 Actively building real-world projects in **Web Development** and **Analytics**  
 💬 Ask me about: Python, ML, SQL, WordPress, Hosting, SEO  
-📫 How to reach me: saurabh.officialmail@gmail.com  
+📫 How to reach me: saurabhravishankertiwari@gmail.com  
 🌐 Portfolio site coming soon...
 
 ---
