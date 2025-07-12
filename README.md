@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Saurabh Tiwari</h1>
+<h3 align="center">IT Executive | M.Sc Artificial Intelligence | Web Developer | Data Science Enthusiast</h3>
 
-<!--
-**S-R-Tiwari/S-R-Tiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🔭 I’m currently working as an **IT Executive** and managing websites & IT operations  
+🌱 Recently completed certifications in **Python**, **SQL**, **R**, **Machine Learning**, and **Data Science**  
+👨‍💻 Actively building real-world projects in **Web Development** and **Analytics**  
+💬 Ask me about: Python, ML, SQL, WordPress, Hosting, SEO  
+📫 How to reach me: saurabh.officialmail@gmail.com  
+🌐 Portfolio site coming soon...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Skills
+- Programming: `Python`, `SQL`, `R`, `HTML`, `CSS`, `JavaScript`
+- Tools & Platforms: `Tableau`, `VS Code`, `Jupyter`, `WordPress`, `Git`
+- Concepts: `Data Analysis`, `Web Development`, `Machine Learning`, `IT Support`
+
+---
+
+### 📊 GitHub Stats
+![Saurabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=S-R-Tiwari&show_icons=true&theme=radical)
+
+---
+
+### 🧠 Certifications & Projects
+- Data Science (Python, R, SQL, Tableau)
+- Web Development Projects (HTML/CSS/JS, CMS, Hosting)
+- ML Projects: Real Estate, Marketing, Public Safety, etc.
